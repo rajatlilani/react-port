@@ -15,15 +15,15 @@ export default function Navbar() {
             <Link to="/test">
                 <AiOutlineUser className="icon" />
             </Link>
-            <a href="/test">
+            <Link to="/test">
                 <TiGroupOutline className="icon" />
-            </a>
-            <a href="/test">
+            </Link>
+            <Link to="/test">
                 <BiMessageRoundedDots className="icon" />
-            </a>
-            <a href="/try">
+            </Link>
+            <Link to="/try">
                 <BsArrowDownCircle className="icon" />
-            </a>
+            </Link>
         </div>
     )
 }
