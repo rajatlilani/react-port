@@ -15,10 +15,10 @@ export default function Navbar() {
             <Link to="/test">
                 <AiOutlineUser className="icon" />
             </Link>
-            <Link to="/test">
+            <Link to="/try">
                 <TiGroupOutline className="icon" />
             </Link>
-            <Link to="/test">
+            <Link to="/about">
                 <BiMessageRoundedDots className="icon" />
             </Link>
             <Link to="/try">
