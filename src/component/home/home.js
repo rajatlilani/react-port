@@ -7,7 +7,7 @@ export default function Home() {
 
     return (
 
-        <div className="flex1">
+        <div className="">
             <Header className="Container" />
             <div id='home' className="Container home-container">
                 {/* <h1>
